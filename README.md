@@ -1,4 +1,4 @@
-# Django Rest Framework Event Manager App.
+# Django Rest Framework ToDo App.
 
 
  Creating a Rest API using Django rest framework https://www.django-rest-framework.org/ create an ToDo app. 
